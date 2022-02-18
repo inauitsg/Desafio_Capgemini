@@ -6,7 +6,6 @@
 ##
 
 ## ▶ Como executar cada questão <h2>
-##
 
  - Clique [aqui](https://github.com/inauitsg/Desafio_Capgemini) para clonar o repositório
  - 
