@@ -8,7 +8,7 @@
 - Questão 2: Código para verificação de senha forte segundo critérios
 - Questão 3: Identificação de anagramas pares em uma string
 
-## ▶ Como executar cada questão <h2>
+##  <h2>▶ Como executar cada questão </h2>
 
  - Clique [aqui](https://github.com/inauitsg/Desafio_Capgemini) para clonar o repositório
  - Os códigos do desafio estão na pasta Desafio_Capgemini/src/teste
